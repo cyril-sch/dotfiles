@@ -1,0 +1,8 @@
+{
+  "editor.fontFamily": "'FiraCode Nerd Font', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "locale": "fr",
+  "workbench.colorTheme": "Tokyo Night Storm"
+}
