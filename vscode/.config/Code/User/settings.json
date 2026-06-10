@@ -4,5 +4,6 @@
   "editor.fontSize": 14,
   "editor.formatOnSave": true,
   "locale": "fr",
-  "workbench.colorTheme": "Tokyo Night Storm"
+  "workbench.colorTheme": "Tokyo Night Storm",
+  "git.autofetch": true
 }
